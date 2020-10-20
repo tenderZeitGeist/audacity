@@ -68,6 +68,7 @@ CMakeFiles/
 CTestTestfile.cmake
 cmake_install.cmake
 build/*
+cmake-build-debug/
 
 # Waf build output
 lib-src/lv2/.buildvars
@@ -204,5 +205,6 @@ win/xaudacity.ico
 /tests/results/*.png
 
 #other files that get in the way
+*.idea
 */not-for-git/*
 *.dll
